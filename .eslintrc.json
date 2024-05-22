@@ -36,6 +36,8 @@
     "arrow-body-style": ["error", "always"],
     "object-curly-newline": "off",
     "@typescript-eslint/comma-dangle": "off",
-    "import/prefer-default-export": "off"
+    "import/prefer-default-export": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "operator-linebreak": "off"
   }
 }
