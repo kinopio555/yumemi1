@@ -36,7 +36,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 テストを実行するときは
+
 ・prefecture/route.jsをテスト用のコードに切り替える。
+
 ・graph.tsx,graph/route.jsをコメントアウトなどで無効化。
+
 ・pade.tsxのgraphコンポーネント描画に関する二行をコメントアウトなどで無効化。
+
 してください。
