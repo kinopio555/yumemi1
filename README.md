@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## About
+このアプリは都道府県別の人口の推移のグラフを描画してくれるアプリです。
+都道府県の選択とは別に「総人口」、「年少人口」、「生産年齢人口」、「老年人口」も選択できます。
+
 ## Getting Started
 
 First, run the development server:
